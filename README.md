@@ -9,7 +9,11 @@ Meta descriptions Length: **150-160 characters**
 All your pro web tools at one place.
 <!--
 <title>All your pro web tools at one place.</title>
-<meta name="description" content="comprehensive online free tools to help you with your routine needs and easy to use with ">
+<meta name="description" content="comprehensive online free tools to help you with your routine needs and no need to pay money for your favorite tool.">
+<meta name=”robots” content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+  **<meta  name="google-site-verification"  content="">**
 -->
 
 ## [DSN Lookup](https://toolsmaza.com/dns-lookup)
