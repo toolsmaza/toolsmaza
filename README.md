@@ -4,7 +4,7 @@ Meta Title Length: **50–60 characters**
 Meta descriptions Length: **150-160 characters**
 -->
 <!--The team behind Toolsmaza are passionate about their field which means they take great care in researching every aspect before publishing anything online so readers can rest assured knowing they will always have access only accurate information presented in an easily digestible format which makes learning new skills less daunting than ever before! -->
-# [ToolsMaza](toolsmaza.com)
+# [ToolsMaza](https://www.toolsmaza.com)
 
 All your pro web tools at one place.
 <!--
